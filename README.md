@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on: Habilidades en análisis de datos y visualización; Power BI y Tableau. <br>                                                     Estoy enfocado en proyectos que involucran ETL, estadísticas y machine learning.<br><br>👯 I’m looking to collaborate on: Proyectos de análisis de datos avanzados, especialmente aquellos que <br>                                                     desafíen mis habilidades en Python y R. <br><br>🤝 I’m looking for help with: Profundizar en frameworks como Spark y Hadoop. Si tienes experiencia<br>                                                     y estás dispuesto a compartir tus conocimientos, me encantaría conectar.<br><br>🌱 I’m currently learning: Desarrollo de Aplicaciones Multiplataforma (DAM). <br><br>💬 Ask me about: Análisis de datos, ETL, Soporte técnico en entornos bancarios y administración de sistemas. <br><br>⚡ Fun fact: A pesar de mi enfoque técnico, disfruto de actividades creativas fuera del trabajo. <br>                                                      Esto me ayuda a mantener una mente fresca..
+🔭 I’m currently working on: Skills in data analysis and visualization; Power BI and Tableau. I'm focused on projects involving ETL, statistics, and machine learning.
+
+👯 I’m looking to collaborate on: Advanced data analysis projects, especially those that challenge my skills in Python and R.
+
+🤝 I’m looking for help with: Deepening my understanding of frameworks like Spark and Hadoop. If you have experience and are willing to share your knowledge, I would love to connect.
+
+🌱 I’m currently learning: Multiplatform Application Development (DAM).
+
+💬 Ask me about: Data analysis, ETL, technical support in banking environments, and systems administration.
+
+⚡ Fun fact: Despite my technical focus, I enjoy creative activities outside of work. This helps me keep a fresh mind.
 
 
 ## 🌐 Socials:
